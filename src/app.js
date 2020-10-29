@@ -1,11 +1,10 @@
 'use strict';
 import $ from 'jquery';
-import api from './bookmark-api';
-import store from './bookmark-store';
+import api from './api';
+import store from './store';
 import expandIcon from './images/expand.png'
 import fullStar from './images/star-full.png'
 import emptyStar from './images/star-empty.png'
-
 
 const generateInitialView = function (bookmarks) {
 

@@ -1,6 +1,6 @@
 'use strict'
 // Base URL fir API requests
-const BASE_URL = 'https://thinkful-list-api.herokuapp.com/charityphilips/bookmarks';
+const BASE_URL = 'https://thinkful-list-api.herokuapp.com/rin/bookmarks';
 
 const bookmarksApiFetch = function (...args) {
     let error;

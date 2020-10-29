@@ -2,9 +2,9 @@
 import $ from 'jquery';
 
 import './index.css';
-import api from './bookmark-api';
-import app from './bookmark-app';
-import store from './bookmark-store';
+import api from './api';
+import app from './app';
+import store from './store';
 
 
 

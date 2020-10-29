@@ -2,9 +2,9 @@
 import $ from 'jquery';
 import api from './api';
 import store from './store';
-import expandIcon from './images/expand.png'
-import fullStar from './images/star-full.png'
-import emptyStar from './images/star-empty.png'
+import expandIcon from './images/Hmm.png'
+import fullStar from './images/love.png'
+import emptyStar from './images/shocked.png'
 
 const generateInitialView = function (bookmarks) {
 
